@@ -1,4 +1,4 @@
-### 3. Tópicos Intermediários
+### Tópicos Intermediários TypeScript
 
 **Enums**  
 Permitem definir um conjunto de constantes nomeadas. Podem ser numéricos (padrão) ou baseados em strings.
@@ -225,4 +225,7 @@ TypeScript vem com tipos utilitários que ajudam a transformar tipos existentes.
           "exclude": ["node_modules", "**/*.spec.ts"] // Padrões para excluir arquivos
         }
         ```
-  
+## 👤 GitHub
+
+[![Foto de Perfil](https://github.com/floresjcd.png?size=50)](https://github.com/floresjcd) 
+**[@floresjcd](https://github.com/floresjcd)**
