@@ -129,8 +129,7 @@ TypeScript usa a sintaxe de módulos do ES6 para organizar o código.
     console.log(`O número 4 é par? ${ehPar(4)}`);
     console.log(`Valor de PI: ${constantePI}`);
     ```
-    *Professor explica que para executar isso no Node.js, pode ser necessário configurar `tsconfig.json` para `module: "CommonJS"` ou usar ferramentas como `ts-node`, ou configurar o `package.json` com `"type": "module"` e `tsconfig.json` com `module: "ESNext"`.*
-
+    
 **Utility Types**  
 TypeScript vem com tipos utilitários que ajudam a transformar tipos existentes.
 
